@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ConceitosBasicos</string>
+    <string-array name="grau_instrucao">
+        <item>Nenhum</item>
+        <item>Ensino fundamental </item>
+        <item>Ensino médio</item>
+        <item>Superior</item>
+        <item>Pós-graduação</item>
+    </string-array>
+</resources>
