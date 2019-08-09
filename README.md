@@ -4,9 +4,11 @@ App Android de exemplo sobre: alterações de cores do tema, EditText, TextView,
 <table>
 <tr align=center>
 <td><img src="https://github.com/machadowma/ConceitosBasicos/blob/master/tela_principal.png" align="left" height="360" width="180" ></td>
+<td><img src="https://github.com/machadowma/ConceitosBasicos/blob/master/tela_principal_2.png" align="left" height="360" width="180"> </td>
 </tr>
 <tr align=center>
 <td>Tela principal</td>
+<td>Retorno de dados</td>
 </tr>
 </table>
 
